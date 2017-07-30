@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppThemeParent">
+        <item name="colorPrimaryDark">@android:color/holo_red_light</item>
+    </style>
+</resources>
